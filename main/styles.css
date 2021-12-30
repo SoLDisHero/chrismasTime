@@ -1,0 +1,64 @@
+.navv{
+  background: #B8E4F0;
+}
+.img-nav{
+  height: 2.5rem;
+}
+#top{
+  background: linear-gradient(#B8E4F0, #A6CF98);
+}
+.text{
+  padding: 30%;
+}
+.tree{
+  position: relative;
+  left: 20%;
+}
+
+.img-present{
+  padding: 80px;
+}
+.img-tree{
+  text-align: center;
+}
+h1, a{
+  text-align: center;
+  font-family: 'Montserrat-Black';
+  padding:  3% 0;
+}
+p{
+  font-family: 'Ubuntu';
+  line-height: 1.5
+}
+#Contacts{
+  background-color: #396EB0;
+}
+#Presents{
+  margin-bottom: 3%;
+}
+.Copyright{
+  text-align: center;
+  padding: 1%;
+}
+.tinsel1{
+  width: 10%;
+  margin-left: 10%;
+}
+.tinsel2{
+  width: 10%;
+  margin-right: 10%;
+}
+.envelope{
+  color: black;
+  text-align: center;
+}
+.insta{
+  color: #FF4848;
+  margin-left: 5%;
+  text-align: center;
+}
+.face{
+  color: blue;
+  margin-left: 5%;
+  text-align: center;
+}
